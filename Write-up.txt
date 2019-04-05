@@ -1,0 +1,17 @@
+This is a short write up explaining what my program does. 
+I have written code designing a vending machine that holds six food items. 
+These food items are arranged by letter and number coordinates. 
+the items are:
+	Hesrhay's Bar which is in position a0 and cost $1.00
+	Reese's Bar which is in position a1 and cost $1.00
+	Heath Bar which is in position a2 and cost $1.50 
+	Coca-Cola which is in position b0 and cost $1.50
+	Sprite which is in position b1 and cost $2.00
+	Dr Pepper which is in position b2 and cost $2.00 
+	
+The code starts by asking if you are a technician or customer.
+You answer this based on what you want to do.
+The technician can restock the machine and change the prices of items as needed. 
+The customer can buy food items as wanted.
+	You start by entering money, then you make your selection, and your item is dispensed.
+	Then if you have change it is dispensed and the machine is reset for the next customer.
